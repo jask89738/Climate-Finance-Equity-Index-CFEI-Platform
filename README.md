@@ -44,4 +44,4 @@ Active Development | Open Source
 
 
 Live Demo:
-https://cfei-platform.vercel.app
+https://climate-equity-lens.lovable.app/
